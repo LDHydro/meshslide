@@ -58,7 +58,7 @@ Full keyboard input module based on CardKB
 
 ## MeshSlide
 
-#### BOM List
+### BOM List
 
 This list includes MeshSlide and SlideZero
 
