@@ -102,19 +102,19 @@ Embed the M2x5 knurled nuts into the printed cases M1 and S1
 
 Install the SMA connector cable to the printed case S1, connect the SMA cable to Heltec V4, and install the Heltec V4 with L76K GNSS module to the printed case M1
 
-![](assets/20260126211406.jpg)
+![](assets/20260321104856.jpg)
 
 Connect the battery to Heltec V4, bending the cable as much as possible without causing damage
 
-![](assets/20260126212053.jpg)
+![](assets/20260321104902.jpg)
 
 Install the printed case L1, install the printed case B1. The printed case L1 can accommodate a battery with maximum dimensions of 5mm x 24mm x 82mm
 
-![](assets/20260126212810.jpg)
+![](assets/20260321104908.jpg)
 
 Embed the pogopin into the printed case S2, install the printed case S2 to the printed case M1
 
-![](assets/20260126213025.jpg)
+![](assets/20260321104914.jpg)
 
 Install the printed case U1
 
